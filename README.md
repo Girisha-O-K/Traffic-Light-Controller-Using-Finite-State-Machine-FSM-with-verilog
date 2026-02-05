@@ -1,4 +1,5 @@
 Overview:
+
 This project implements a Traffic Light Control System for a 3-way intersection using a Finite State Machine (FSM) in Verilog HDL.
 The system ensures safe and efficient traffic flow by controlling red, yellow, and green signals in a cyclic pattern.
 FSM-based traffic control makes the design predictable, reliable, and easy to scale, with potential applications in real-world traffic management on FPGA platforms.
